@@ -1,0 +1,22 @@
+{
+  "main": "index.html",
+  "name": "hammer",
+  "description": "hammer game",
+  "version": "0.1.0",
+  "author": "yongkang.you@gmail.com",
+  "window": {
+    "title": "hammer",
+    "toolbar": false,
+    "frame": true,
+    "width": 1000,
+    "height": 600,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 1200,
+    "max_height": 600
+  },
+  "webkit": {
+    "plugin": true
+  }
+}

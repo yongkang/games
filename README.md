@@ -12,3 +12,11 @@ It includes 3 games:
 3. Maze: a simple game but use random Maze generation algorithm. The fog generation is a little tricky.
 
 You can freely use the source to play/learn/modify/redistributation.
+
+How to use it
+=====
+1. Download the source.
+
+2. You can package them into a zip file and run them in [node-webkit](https://github.com/rogerwang/node-webkit)
+
+3. Or you can directly open the **index.html** in a browser. 
